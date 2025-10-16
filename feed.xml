@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>Dogs, Walks &amp; Wisdom</title>
+  <link>https://melissa-stephen.github.io/podcasts_dogs/</link>
+  <language>en</language>
+  <description>Conversations, tips, and stories for people who love dogs—training, health, and heartwarming tales.</description>
+
+  <itunes:author>Dogs &amp; Humans</itunes:author>
+  <itunes:owner>
+    <itunes:name>melissa stephen</itunes:name>
+    <itunes:email>m3lissastephen@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Leisure">
+    <itunes:category text="Pets &amp; Animals"/>
+  </itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://melissa-stephen.github.io/podcasts_dogs/cover.jpg"/>
+  <itunes:type>episodic</itunes:type>
+  <copyright>© 2025 Dogs &amp; Humans</copyright>
+
+  <!-- Episode 1 -->
+  <item>
+    <title>Episode 1: Hello, Dogs!</title>
+    <description>A short introduction episode about what this show will cover: training basics, health, and great stories.</description>
+    <!-- Replace pubDate below if you want the exact current time -->
+    <pubDate>Thu, 16 Oct 2025 12:00:00 GMT</pubDate>
+    <enclosure
+      url="https://melissa-stephen.github.io/podcasts_dogs/audio/ep01.mp3"
+      length="35614516"
+      type="audio/mpeg"/>
+    <guid isPermaLink="false">podcasts_dogs-ep01</guid>
+    <itunes:duration>18:26</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+
+</channel>
+</rss>

@@ -12,9 +12,9 @@
     <itunes:name>melissa stephen</itunes:name>
     <itunes:email>m3lissastephen@gmail.com</itunes:email>
   </itunes:owner>
-  <itunes:category text="Leisure">
-    <itunes:category text="Pets &amp; Animals"/>
-  </itunes:category>
+ <itunes:category text="Kids &amp; Family">
+  <itunes:category text="Pets &amp; Animals"/>
+</itunes:category>
   <itunes:explicit>false</itunes:explicit>
   <itunes:image href="https://melissa-stephen.github.io/podcasts_dogs/cover.jpg"/>
   <itunes:type>episodic</itunes:type>

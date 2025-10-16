@@ -24,13 +24,13 @@
   <item>
     <title>Episode 1: Hello, Dogs!</title>
     <description>A short introduction episode about what this show will cover: training basics, health, and great stories.</description>
-    <!-- Replace pubDate below if you want the exact current time -->
+    <!-- Replace with the exact current time if you want -->
     <pubDate>Thu, 16 Oct 2025 12:00:00 GMT</pubDate>
     <enclosure
-      url="https://melissa-stephen.github.io/podcasts_dogs/audio/ep01.mp3"
+      url="https://melissa-stephen.github.io/podcasts_dogs/audio/smith_v1.mp3"
       length="35614516"
       type="audio/mpeg"/>
-    <guid isPermaLink="false">podcasts_dogs-ep01</guid>
+    <guid isPermaLink="false">podcasts_dogs-smith_v1</guid>
     <itunes:duration>18:26</itunes:duration>
     <itunes:episodeType>full</itunes:episodeType>
   </item>

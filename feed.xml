@@ -39,5 +39,21 @@
     <itunes:episodeType>full</itunes:episodeType>
   </item>
 
+  <!-- Episode 2 -->
+  <item>
+    <title>Episode 2: Novel_Fertility_Traits!</title>
+    <!-- Item link added; if you later make a page like /episode/smith_v1.html, point to it here -->
+    <link>https://melissa-stephen.github.io/podcasts_dogs/</link>
+    <description>A short introduction episode about what this show will cover: Mels Phd.</description>
+    <pubDate>Thu, 20 Oct 2025 12:00:00 GMT</pubDate>
+    <enclosure
+      url="https://melissa-stephen.github.io/podcasts_dogs/audio/Cow_Fertility.m4a"
+      length="32737373"
+      type="audio/mpeg"/>
+    <guid isPermaLink="false">podcasts_dogs/Cow_Fertility-</guid>
+    <itunes:duration>16:57</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+
 </channel>
 </rss>

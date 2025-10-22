@@ -25,10 +25,10 @@
 
   <!-- Episode 1 -->
   <item>
-    <title>Episode 1: Hello, Dogs!</title>
+    <title>Episode 1: Flo's Masters Thesis</title>
     <!-- Item link added; if you later make a page like /episode/smith_v1.html, point to it here -->
     <link>https://melissa-stephen.github.io/podcasts_dogs/</link>
-    <description>A short introduction episode about what this show will cover: training basics, health, and great stories.</description>
+    <description>An AI generated summary of Flo's masters thesis.</description>
     <pubDate>Thu, 16 Oct 2025 12:00:00 GMT</pubDate>
     <enclosure
       url="https://melissa-stephen.github.io/podcasts_dogs/audio/smith_v1.m4a"

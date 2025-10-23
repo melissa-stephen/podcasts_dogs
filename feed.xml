@@ -58,10 +58,11 @@
 
   <!-- Episode 3 -->
   <item>
-    <title>Episode 3: Millie's Masters Thesis</title>
+    <title>Episode 3: Phylogenetic Analysis and Population Structure of the
+New Zealand Huntaway and Heading Dog</title>
     <!-- Item link added; if you later make a page like /episode/smith_v1.html, point to it here -->
     <link>https://melissa-stephen.github.io/podcasts_dogs/</link>
-    <description>A short introduction episode about what this show will cover: Millie's Thesis.</description>
+    <description>An AI generated summary of Millie's Thesis. </description>
     <pubDate>Thu, 23 Oct 2025 03:30:30 GMT</pubDate>
     <enclosure
       url="https://melissa-stephen.github.io/podcasts_dogs/audio/audio/Decoding_the_High-Performance_Genome__How_New_Zealand_s_Huntawa.m4a"

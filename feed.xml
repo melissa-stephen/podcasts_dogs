@@ -55,5 +55,22 @@
     <itunes:episodeType>full</itunes:episodeType>
   </item>
 
+
+  <!-- Episode 3 -->
+  <item>
+    <title>Episode 2: Millie's Masters Thesis</title>
+    <!-- Item link added; if you later make a page like /episode/smith_v1.html, point to it here -->
+    <link>https://melissa-stephen.github.io/podcasts_dogs/</link>
+    <description>A short introduction episode about what this show will cover: Millie's Thesis.</description>
+    <pubDate>Thu, 23 Oct 2025 03:30:30 GMT</pubDate>
+    <enclosure
+      url="https://melissa-stephen.github.io/podcasts_dogs/audio/audio/Decoding_the_High-Performance_Genome__How_New_Zealand_s_Huntawa.m4a"
+      length="37128596"
+      type="audio/mpeg"/>
+    <guid isPermaLink="false">podcasts_dogs-Decoding_the_High-Performance_Genome__How_New_Zealand_s_Huntawa-</guid>
+    <itunes:duration>19:13</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+
 </channel>
 </rss>

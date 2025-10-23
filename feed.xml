@@ -28,7 +28,7 @@
     <title>Episode 1: Flo's Masters Thesis</title>
     <!-- Item link added; if you later make a page like /episode/smith_v1.html, point to it here -->
     <link>https://melissa-stephen.github.io/podcasts_dogs/</link>
-    <description>An AI generated summary of Flo's masters thesis.</description>
+    <description>An AI generated (unproofed) summary of Flo's masters thesis.</description>
     <pubDate>Thu, 16 Oct 2025 12:00:00 GMT</pubDate>
     <enclosure
       url="https://melissa-stephen.github.io/podcasts_dogs/audio/smith_v1.m4a"
@@ -41,10 +41,10 @@
 
   <!-- Episode 2 -->
   <item>
-    <title>Episode 2: Novel_Fertility_Traits!</title>
+    <title>Episode 2: Novel Fertility Traits</title>
     <!-- Item link added; if you later make a page like /episode/smith_v1.html, point to it here -->
     <link>https://melissa-stephen.github.io/podcasts_dogs/</link>
-    <description>A short introduction episode about what this show will cover: Mels Phd.</description>
+    <description>An AI generated (unproofed) summary of Mels PhD Thesis</description>
     <pubDate>Thu, 20 Oct 2025 12:00:00 GMT</pubDate>
     <enclosure
       url="https://melissa-stephen.github.io/podcasts_dogs/audio/Cow_Fertility.m4a"
@@ -62,7 +62,7 @@
 New Zealand Huntaway and Heading Dog</title>
     <!-- Item link added; if you later make a page like /episode/smith_v1.html, point to it here -->
     <link>https://melissa-stephen.github.io/podcasts_dogs/</link>
-    <description>An AI generated summary of Millie's Thesis. </description>
+    <description>An AI generated (unproofed) summary of Millie's Thesis. </description>
     <pubDate>Thu, 23 Oct 2025 03:30:30 GMT</pubDate>
     <enclosure
       url="https://melissa-stephen.github.io/podcasts_dogs/audio/audio/Decoding_the_High-Performance_Genome__How_New_Zealand_s_Huntawa.m4a"
